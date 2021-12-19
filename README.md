@@ -1,4 +1,4 @@
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi I'm Fahrur! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👨‍💻
 
 
 Hi👋 Muhammad Akhyar Fahrurrozi and usually my friends call me Fahrur. My Instagram account is <a href = "https://www.instagram.com/muhammadakfz" target = "_self">@muhammadakfz</a> .
