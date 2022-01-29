@@ -1,4 +1,4 @@
-# Hi, I'm Fahrur! [<img align="left" alt="muhammadakfz" width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />][github] 👨‍💻
+# Hi, I'm Fahrur! [<img alt="muhammadakfz" width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />][github] 👨‍💻
 
 - 😆 Hello Everyone👋, I'm Muhammad Akhyar Fahrurrozi. Usually my friends call me **Fahrur**
 
@@ -18,4 +18,4 @@
 [twitter]: https://twitter.com/muhammadakfz
 [instagram]: https://www.instagram.com/muhammadakfz
 [facebook]: https://www.facebook.com/muhammadakfz
-[githuh]: (https://github.com/muhammadakfz)
+[github]: (https://github.com/muhammadakfz)
