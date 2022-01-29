@@ -3,8 +3,6 @@
 
 Hi👋 I'm Muhammad Akhyar Fahrurrozi and usually my friends call me Fahrur. I'm from Indonesia. I am a coder who is passionate about creating android, web, machine learning, and desktop programs. I really like technology, programming, and math logic😊. My hobbies are sleeping, reading books, coding, and listening to music of course. I am currently sitting in class X MIPA 7 of MAN 2 Malang. My goal is to be number 1 and bring peace to the world :D
 
-<img src="https://raw.githubusercontent.com/muhammadakfz/muhammadakfz/main/Illustration%201.png"></img>
-
 ## Find me on social media🌎:
 
 
