@@ -20,4 +20,4 @@
 [twitter]: https://twitter.com/muhammadakfz
 [instagram]: https://www.instagram.com/muhammadakfz
 [facebook]: https://www.facebook.com/muhammadakfz
-[github]: https://github.com/muhammadakfz
+[github]: #
