@@ -1,6 +1,6 @@
 # Hi, I'm Fahrur! [<img alt="muhammadakfz" width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />][github] 👨‍💻
 
-- 😆 Hello Everyone👋, I'm Muhammad Akhyar Fahrurrozi. Usually my friends call me **Fahrur**
+- 😆 Hello Everyone�[<img alt="muhammadakfz" width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />][github], I'm Muhammad Akhyar Fahrurrozi. Usually my friends call me **Fahrur**
 
 - 🌱 I’m still learning **Android App, Machine Learning, and Back-End Development also**
 
