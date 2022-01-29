@@ -8,13 +8,9 @@ Hi👋 I'm Muhammad Akhyar Fahrurrozi and usually my friends call me Fahrur. I'm
 ## Find me on social media🌎:
 
 
-[<img align="left" alt="muhammadkafz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="muhammadkafz | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" />][instagram]
 [<img align="left" alt="muhammadakfz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="muhammadkafz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-- <img width="20" height="20" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"> <a href = "https://www.instagram.com/muhammadakfz" target = "_self">Instagram</a>
-- <img width="20" height="20" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"> <a href = "https://twitter.com/muhammadakfz" target = "_self">Twitter</a>
-- <img width="20" height="20" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png"> <a href = "https://www.facebook.com/muhammadakfz" target = "_self">Facebook</a>
+[<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][facebook]
 
 [twitter]: https://twitter.com/muhammadakfz
 [instagram]: https://www.instagram.com/muhammadakfz
