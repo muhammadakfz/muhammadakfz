@@ -4,6 +4,8 @@
 
 - 🌱 I’m still learning **Android App, Machine Learning, and Back-End Development also**
 
+- 🎮 I really like **games**
+
 - 👨‍💻 All my arts are available at **[this](https://github.com/muhammadakfz)**
 
 - 📩 Contact me on **muhammadakfz@gmail.com**
