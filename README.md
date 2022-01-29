@@ -1,4 +1,4 @@
-# Hi, I'm Fahrur! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👨‍💻
+# Hi, I'm Fahrur! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></img> 👨‍💻
 
 - 😆 Hello Everyone👋, I'm Muhammad Akhyar Fahrurrozi. Usually my friends call me **Fahrur**
 
