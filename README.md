@@ -16,6 +16,7 @@
 [<img align="left" alt="muhammadkafz | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" />][instagram]
 [<img align="left" alt="muhammadakfz | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
+[<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174870.png" />][sc]
 [<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" />][twitch]
 [<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />][dc]
@@ -27,3 +28,4 @@
 [linkedin]: https://www.linkedin.com/in/muhammad-akhyar-fahrurrozi-116bbb210/
 [twitch]: https://www.twitch.tv/muhammadakfz_
 [dc]: https://discord.gg/6UqvzgeV
+[sc]: https://www.snapchat.com/add/muhammadakfz?sender_web_id=515a5f8d-37a2-4b18-a4ef-24b492287d98&device_type=desktop&is_copy_url=true
