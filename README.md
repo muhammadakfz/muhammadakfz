@@ -2,7 +2,7 @@
 
 - 😆 Hello Everyone, I'm Muhammad Akhyar Fahrurrozi. Usually my friends call me **Fahrur**
 
-- 🌱 I’m still learning **Android App, Machine Learning, and Back-End Development also**
+- 🌱 I’m still learning **Android App and Machine Learning**
 
 - 🎮 I really like **games**
 
