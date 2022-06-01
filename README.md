@@ -16,7 +16,7 @@
 [<img align="left" alt="muhammadkafz | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" />][instagram]
 [<img align="left" alt="muhammadakfz | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
-[<img align="left" alt="muhammadkafz | Facebook" width="22px" src="[https://cdn-icons-png.flaticon.com/512/174/174870.png](https://cdn-icons.flaticon.com/png/512/3938/premium/3938029.png?token=exp=1654076607~hmac=36f4498370a221154b57ccd1da48ae37)" />][sc]
+[<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/220/220224.png" />][sc]
 [<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/220/220214.png" />][pin]
 [<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="muhammadkafz | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" />][twitch]
