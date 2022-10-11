@@ -6,8 +6,6 @@
 
 - 🎮 I really like **games**
 
-- 👨‍💻 All my arts are available at **[this](https://github.com/muhammadakfz)**
-
 - 📩 Contact me on **muhammadakfz@gmail.com**
 
 ## Find me on social media🌎:
